@@ -1,5 +1,6 @@
 backend:
   name: github
+  branch: main
   repo: sviccari/monster-cute
 
 media_folder: content/assets
